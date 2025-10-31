@@ -1,0 +1,37 @@
+{
+  "gameName": "Mitos y Leyendas",
+  "zones": [
+    "Mazo Castillo",
+    "Reserva de Oro",
+    "Zona de Oro Pagado",
+    "Cementerio",
+    "Destierro",
+    "Zona de Defensa",
+    "Zona de Ataque",
+    "Zona de Apoyo"
+  ],
+  "deck": {
+    "cardsInDeck": 49,
+    "startingGold": 1,
+    "lifeIsDeck": true
+  },
+  "cardTypes": [
+    "Aliado",
+    "Oro",
+    "Talisman",
+    "Totem",
+    "Arma"
+  ],
+  "turnPhases": [
+    "Fase Agrupación - Comienzo del turno",
+    "Fase de Vigilia",
+    "Batalla Mitológica",
+    "Fase Final"
+  ],
+  "mechanicsMode": "manual",
+  "mechanicsNote": "Todas las habilidades/efectos se resuelven manualmente por los jugadores (ej.: acordado por chat/Discord). El motor del sitio no aplicará efectos automáticamente.",
+  "rules": [
+    "Reglas básicas a definir por los jugadores; por ahora la plataforma solo controlará zonas y el conteo del mazo."
+  ],
+  "cards": []
+}
